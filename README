@@ -1,0 +1,2 @@
+Light painting on the Raspberry Pi in C using addressable RGB LED strip.
+Uses a wrapper script to convert any image to the PPM format used internally.
