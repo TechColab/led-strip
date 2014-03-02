@@ -1,4 +1,5 @@
 #!/bin/sh
+# camera exposure of 10 to 15 seconds
 
 numofleds=32
 reps=10
